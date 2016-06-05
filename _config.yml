@@ -1,0 +1,14 @@
+layout_spectrum: 0.2862513
+color:
+  saturation: 0.2808808
+  lightness: 0.3882921
+  brandStrength: 0.8372717
+  brandColors:
+    - '#012D88'
+    - '#01BBB0'
+    - '#AC003A'
+    - '#FFE958'
+    - '#FF868D'
+  rhythmicContrast: 0.4805425
+typography_spectrum: 0.5322234
+name: ScootyFilms
